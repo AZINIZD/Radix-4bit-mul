@@ -58,6 +58,7 @@ module multiplier (
                         end
                     end
                 end
+                
                 // Additional cases for other values of c can be added here
             endcase
         end
