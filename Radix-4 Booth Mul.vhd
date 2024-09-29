@@ -70,7 +70,6 @@ begin
                     null; -- handle other cases as needed
 
             end case;
-
             out <= prod; -- output the product at each clock cycle
         end if;
     end process;
