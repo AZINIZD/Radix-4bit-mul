@@ -1,2 +1,2 @@
 This repository contains the implementation of a Radix-4 Bit Multiplier using Verilog HDL. The Radix-4 algorithm is an efficient method for multiplying binary numbers, significantly reducing the number of partial products and addition operations compared to traditional multiplication methods. 
-This project is particularly useful for applications requiring high-speed arithmetic operations in digital circuits
+This project is particularly useful for applications requiring high-speed arithmetic operations in digital circuits.
