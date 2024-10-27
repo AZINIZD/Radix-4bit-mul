@@ -55,3 +55,4 @@ if __name__ == "__main__":
     
     multiplier.multiply(x, y)
     print(f"Product of {x} and {y} is: {multiplier.out}")
+    
